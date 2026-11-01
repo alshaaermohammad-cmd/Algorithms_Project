@@ -1,0 +1,11 @@
+algorithm,params,gap_mean_%
+GA,"{""pm_factor"": 1, ""tournament_k"": 3}",0.0125
+GA,"{""pm_factor"": 3, ""tournament_k"": 3}",0.0068
+GA,"{""pm_factor"": 1, ""tournament_k"": 2}",0.0045
+PSO,"{""transfer"": ""s"", ""v_max"": 4.0}",2.4369
+PSO,"{""transfer"": ""v"", ""v_max"": 4.0}",0.0074
+PSO,"{""transfer"": ""v"", ""v_max"": 6.0}",0.0085
+ACO,"{""beta"": 2.0, ""rho"": 0.1}",0.2102
+ACO,"{""beta"": 5.0, ""rho"": 0.1}",0.0608
+ACO,"{""beta"": 10.0, ""rho"": 0.1}",0.0188
+ACO,"{""beta"": 10.0, ""rho"": 0.05}",0.0196

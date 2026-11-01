@@ -1,0 +1,21 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "matplotlib": "3.11.2",
+  "system": "Windows-11-10.0.26300-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "runs_per_instance": 20,
+  "population": 50,
+  "iterations": 300,
+  "source_sha256": {
+    "algorithms/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "algorithms/aco.py": "ffd82cc544f31dbbcbdd7a5470c675c6a3adee0d4fad5c56aa6c2ddf23148319",
+    "algorithms/dp.py": "ddfd9321fee9159470f68b6ad80c967f9c26c99f47fd8d554556a4d6546b5b86",
+    "algorithms/ga.py": "a949a612247e0241fc7ba72923e5dba5016f5855f93842566764200dd19556ad",
+    "algorithms/pso.py": "7e471fa4d8d050d315078e221edd07e420ffcaea6a8d503d196dd521fb0f9166",
+    "knapsack.py": "2708618919f19e4cdb350a8a4935a2a3dd1468c8bd9ab6fb507d09b6394940fd",
+    "main.py": "1efe9906089c36407ab20ab05efc3b83abacf5a5772aa069e4d4b7fe326095c8",
+    "tuning.py": "81ebfdb0a74048e5712d42cd2d37f23ef1c09f68ff86bf014371a86d97b8650d",
+    "verify.py": "b556369c8a48dc5fe574e04f213a1d14f9a9e70ec07e2be55c0165f428b721c5"
+  }
+}

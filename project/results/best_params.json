@@ -1,0 +1,14 @@
+{
+  "GA": {
+    "pm_factor": 1,
+    "tournament_k": 2
+  },
+  "PSO": {
+    "transfer": "v",
+    "v_max": 4.0
+  },
+  "ACO": {
+    "beta": 10.0,
+    "rho": 0.1
+  }
+}
