@@ -2,7 +2,7 @@
 
 ## اختيار المشاريع ضمن ميزانية محددة
 
-**BIA601 — Intelligent Algorithms / الخوارزميات الذكية — الوظيفة الأولى (F25) — المجموعة 2**
+**BIA601 — Intelligent Algorithms / الخوارزميات الذكية (F25) — المجموعة 2**
 
 المستودع: https://github.com/alshaaermohammad-cmd/Algorithms_Project
 
@@ -56,7 +56,7 @@ python verify.py --rerun
 
 - التقرير: [`Report.docx`](Report.docx) ونسخة PDF للتسليم: [`Report.pdf`](Report.pdf)
 - لوحة النتائج التفاعلية: افتح [`index.html`](index.html) في المتصفح (ملف مستقل، لا يحتاج تشغيل خادم).
-  لعرض الجداول والرسوم بعد التجربة الكاملة يكفي فتح الملف محلياً.
+لعرض الجداول والرسوم بعد التجربة الكاملة يكفي فتح الملف محلياً.
 - مخرجات التجارب والرسوم: [`project/results/`](project/results/)
 
 ## مخرجات التسليم
